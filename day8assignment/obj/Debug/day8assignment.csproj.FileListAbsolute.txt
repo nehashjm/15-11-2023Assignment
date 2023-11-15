@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\bin\Debug\day8assignment.exe.config
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\bin\Debug\day8assignment.exe
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\bin\Debug\day8assignment.pdb
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\obj\Debug\day8assignment.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\obj\Debug\day8assignment.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\obj\Debug\day8assignment.exe
+D:\mphasis Simplilearn\Day8\day8assignment\day8assignment\obj\Debug\day8assignment.pdb
